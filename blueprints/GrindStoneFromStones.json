@@ -1,0 +1,17 @@
+{
+    "Name": "Askedal_WhetStoneFromStones",
+    "RequiredGear": [{"Item":"GEAR_Stone","Count":10}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_SharpeningStone",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 240,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

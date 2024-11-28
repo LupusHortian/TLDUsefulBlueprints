@@ -1,0 +1,22 @@
+{
+    "Name": "Askedal_RepairWoodwrigthsBow",
+    "RequiredGear": [
+    	{"Item":"GEAR_Bow_Woodwrights","Count":1},
+    	{"Item":"GEAR_GutDried","Count":3}
+    	],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Bow_Woodwrights",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 150,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
+
+

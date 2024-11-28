@@ -1,0 +1,17 @@
+{
+    "Name": "Askedal_ClothFromBearHide",
+    "RequiredGear": [{"Item":"GEAR_BearHideDried","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": ["GEAR_Knife","GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Cloth",
+    "CraftedResultCount": 15,
+    "DurationMinutes": 80,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

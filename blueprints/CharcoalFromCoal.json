@@ -1,0 +1,17 @@
+{
+    "Name": "Askedal_CharcoalFromCoal",
+    "RequiredGear": [{"Item":"GEAR_Coal","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Hatchet",
+    "OptionalTools": ["GEAR_Hammer"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Charcoal",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 10,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

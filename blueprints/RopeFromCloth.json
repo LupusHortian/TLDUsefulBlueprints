@@ -1,0 +1,17 @@
+{
+    "Name": "Askedal_RopeFromCloth",
+    "RequiredGear": [{"Item":"GEAR_Cloth","Count":12}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Rope",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

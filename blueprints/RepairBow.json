@@ -1,0 +1,22 @@
+{
+    "Name": "Askedal_RepairBow",
+    "RequiredGear": [
+    	{"Item":"GEAR_Bow","Count":1},
+    	{"Item":"GEAR_GutDried","Count":2}
+    	],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Bow",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
+
+

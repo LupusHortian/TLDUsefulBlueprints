@@ -1,0 +1,17 @@
+{
+    "Name": "Askedal_SnareFromStickAndLine",
+    "RequiredGear": [{"Item":"GEAR_Line","Count":1},{"Item":"GEAR_Stick","Count":5}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Snare",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 20,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "Askedal_CuredLeatherFromWolf",
+    "RequiredGear": [{"Item":"GEAR_WolfPeltDried","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": ["GEAR_Knife","GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_LeatherDried",
+    "CraftedResultCount": 4,
+    "DurationMinutes": 40,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
