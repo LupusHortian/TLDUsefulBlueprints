@@ -1,6 +1,11 @@
 {
-    "Name": "Askedal_ArrowHeadsFromStones",
-    "RequiredGear": [{"Item":"GEAR_Stone","Count":1}],
+    "Name": "Lupus_ArrowHeadsFromStones",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Stone",
+            "Count": 1
+        }
+    ],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,
     "RequiredTool": "GEAR_SharpeningStone",
@@ -12,6 +17,6 @@
     "CraftedResultCount": 1,
     "DurationMinutes": 120,
     "CraftingAudio": "",
-    "AppliedSkill" : "None",
-    "ImprovedSkill" : "None"
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
 }

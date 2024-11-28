@@ -1,6 +1,11 @@
 {
-    "Name": "Askedal_WhetStoneFromStones",
-    "RequiredGear": [{"Item":"GEAR_Stone","Count":10}],
+    "Name": "Lupus_WhetStoneFromStones",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Stone",
+            "Count": 10
+        }
+    ],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,
     "RequiredTool": "",
@@ -12,6 +17,6 @@
     "CraftedResultCount": 1,
     "DurationMinutes": 240,
     "CraftingAudio": "",
-    "AppliedSkill" : "None",
-    "ImprovedSkill" : "None"
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
 }

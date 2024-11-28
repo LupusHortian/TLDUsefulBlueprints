@@ -1,5 +1,5 @@
 {
-    "Name": "Askedal_RopeFromCloth",
+    "Name": "Lupus_RopeFromCloth",
     "RequiredGear": [{"Item":"GEAR_Cloth","Count":12}],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,

@@ -1,6 +1,15 @@
 {
-    "Name": "Askedal_SnareFromLineAndWood",
-    "RequiredGear": [{"Item":"GEAR_Line","Count":1},{"Item":"GEAR_ReclaimedWoodB","Count":5}],
+    "Name": "Lupus_SnareFromLineAndWood",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Line",
+            "Count": 1
+        },
+        {
+            "Item": "GEAR_ReclaimedWoodB",
+            "Count": 5
+        }
+    ],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,
     "RequiredTool": "",
@@ -12,6 +21,6 @@
     "CraftedResultCount": 1,
     "DurationMinutes": 20,
     "CraftingAudio": "PLAY_CraftingGeneric",
-    "AppliedSkill" : "None",
-    "ImprovedSkill" : "None"
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
 }

@@ -1,6 +1,15 @@
 {
-    "Name": "Askedal_SnareFromStickAndGuts",
-    "RequiredGear": [{"Item":"GEAR_GutDried","Count":1},{"Item":"GEAR_Stick","Count":5}],
+    "Name": "Lupus_SnareFromStickAndGuts",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_GutDried",
+            "Count": 1
+        },
+        {
+            "Item": "GEAR_Stick",
+            "Count": 5
+        }
+    ],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,
     "RequiredTool": "",
@@ -12,6 +21,6 @@
     "CraftedResultCount": 1,
     "DurationMinutes": 20,
     "CraftingAudio": "PLAY_CraftingGeneric",
-    "AppliedSkill" : "None",
-    "ImprovedSkill" : "None"
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
 }

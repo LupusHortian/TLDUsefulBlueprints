@@ -1,10 +1,15 @@
 {
-    "Name": "Askedal_ClothFromDeerHide",
-    "RequiredGear": [{"Item":"GEAR_LeatherHideDried","Count":1}],
+    "Name": "Lupus_ClothFromDeerHide",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_LeatherHideDried",
+            "Count": 1
+        }
+    ],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
-    "RequiredTool": "",
-    "OptionalTools": ["GEAR_Knife","GEAR_KnifeImprovised"],
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [ "GEAR_KnifeImprovised" ],
     "RequiredCraftingLocation": "Anywhere",
     "RequiresLitFire": false,
     "RequiresLight": true,
@@ -12,6 +17,6 @@
     "CraftedResultCount": 8,
     "DurationMinutes": 60,
     "CraftingAudio": "PLAY_CraftingGeneric",
-    "AppliedSkill" : "None",
-    "ImprovedSkill" : "None"
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
 }
