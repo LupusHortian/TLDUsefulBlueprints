@@ -1,0 +1,30 @@
+{
+    "Name": "Lupus_MatchesFromStumpRemover",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_StumpRemover",
+            "Count": 1
+        },
+        {
+            "Item": "GEAR_Hardwood",
+            "Count": 1
+        },
+        {
+            "Item": "GEAR_Accelerant",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [ "GEAR_Hacksaw", "GEAR_KnifeImprovised" ],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WoodMatches",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 240,
+    "CraftingAudio": "",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}
