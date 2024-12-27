@@ -16,7 +16,7 @@
     "CraftedResult": "GEAR_Charcoal",
     "CraftedResultCount": 10,
     "DurationMinutes": 10,
-    "CraftingAudio": "",
+    "CraftingAudio": "PLAY_CraftingGeneric",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

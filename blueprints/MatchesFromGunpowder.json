@@ -24,7 +24,7 @@
 	"CraftedResult": "GEAR_WoodMatches",
 	"CraftedResultCount": 10,
 	"DurationMinutes": 240,
-	"CraftingAudio": "",
+	"CraftingAudio": "PLAY_CraftingGeneric",
 	"AppliedSkill": "None",
 	"ImprovedSkill": "None"
 }

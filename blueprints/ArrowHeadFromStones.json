@@ -4,7 +4,7 @@
         {
             "Item": "GEAR_Stone",
             "Count": 1,
-            "Units":  "Count"
+            "Units": "Count"
         }
     ],
     "KeroseneLitersRequired": 0,
@@ -17,7 +17,7 @@
     "CraftedResult": "GEAR_ArrowHead",
     "CraftedResultCount": 1,
     "DurationMinutes": 120,
-    "CraftingAudio": "",
+    "CraftingAudio": "PLAY_CraftingGeneric",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

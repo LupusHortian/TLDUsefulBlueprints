@@ -1,6 +1,11 @@
 {
     "Name": "Lupus_RopeFromCloth",
-    "RequiredGear": [{"Item":"GEAR_Cloth","Count":12}],
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Cloth",
+            "Count": 12
+        }
+    ],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,
     "RequiredTool": "GEAR_Knife",
@@ -11,7 +16,7 @@
     "CraftedResult": "GEAR_Rope",
     "CraftedResultCount": 1,
     "DurationMinutes": 120,
-    "CraftingAudio": "",
-    "AppliedSkill" : "None",
-    "ImprovedSkill" : "None"
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
 }

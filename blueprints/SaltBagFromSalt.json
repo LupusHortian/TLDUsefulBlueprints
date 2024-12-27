@@ -22,7 +22,7 @@
 	"CraftedResult": "GEAR_SaltBag",
 	"CraftedResultCount": 1,
 	"DurationMinutes": 20,
-	"CraftingAudio": "",
+	"CraftingAudio": "PLAY_CraftingGeneric",
 	"AppliedSkill": "None",
 	"ImprovedSkill": "None"
 }

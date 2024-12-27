@@ -16,7 +16,7 @@
     "CraftedResult": "GEAR_SharpeningStone",
     "CraftedResultCount": 1,
     "DurationMinutes": 240,
-    "CraftingAudio": "",
+    "CraftingAudio": "PLAY_CraftingGeneric",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }
