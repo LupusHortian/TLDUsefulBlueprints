@@ -16,7 +16,7 @@
 	"GunpowderRequired": 0,
 	"RequiredTool": "",
 	"OptionalTools": [],
-	"RequiredCraftingLocation": "",
+	"RequiredCraftingLocation": "Anywhere",
 	"RequiresLitFire": false,
 	"RequiresLight": true,
 	"CraftedResult": "GEAR_SaltBag",
