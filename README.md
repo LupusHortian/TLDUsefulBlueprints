@@ -42,3 +42,11 @@ Use 3 guts and a knife to repair the Woodwrigths bow
 # Rope from cloth
 
 Every prisoner knows on how to create a rope from 12 cloth
+
+# Matches from Gunpowder or Stump Remover
+Combine wood with Gunpowder or Stump Remover and Accelerant to get 10 matches
+
+# Put the salt in the bag
+Use cloth to create a bag and put 16 salt into it for a salt bag
+
+
