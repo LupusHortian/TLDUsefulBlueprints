@@ -3,7 +3,8 @@
     "RequiredGear": [
         {
             "Item": "GEAR_Stone",
-            "Count": 1
+            "Count": 1,
+            "Units":  "Count"
         }
     ],
     "KeroseneLitersRequired": 0,

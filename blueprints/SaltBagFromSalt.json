@@ -1,0 +1,28 @@
+{
+	"Name": "Lupus_SaltBagFromSalt",
+	"RequiredGear": [
+		{
+			"Item": "GEAR_Salt",
+			"Count": 16,
+			"Units": "Count"
+		},
+		{
+			"Item": "GEAR_Cloth",
+			"Count": 2,
+			"Units": "Count"
+		}
+	],
+	"KeroseneLitersRequired": 0,
+	"GunpowderRequired": 0,
+	"RequiredTool": "",
+	"OptionalTools": [],
+	"RequiredCraftingLocation": "",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_SaltBag",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 20,
+	"CraftingAudio": "",
+	"AppliedSkill": "None",
+	"ImprovedSkill": "None"
+}
