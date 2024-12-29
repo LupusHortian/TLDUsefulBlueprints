@@ -24,23 +24,23 @@ You can now create Snares from
 - 5 sticks and a gut
 - 5 sticks and a line
 - 5 reclaimed wood and a line
+
 # Stone Arrowheads
-
 Create Arrowheads from stones with a grindstome
+
 # Charcoal from coal
-
 Break a coal piece into 10 smaller charcoals by using the hatchet or hammer
-# Grindstone from stones
 
-Put 10 stones together on a workbench as a grindstone
+# Whetstone from stones
+Put 10 stones together on a workbench as a whetstone
+
 # Repair the bow 
-
 Use 2 guts and a knife to repair the bow
+
 # Repair Woodwrigths Bow
-
 Use 3 guts and a knife to repair the Woodwrigths bow
-# Rope from cloth
 
+# Rope from cloth
 Every prisoner knows on how to create a rope from 12 cloth
 
 # Matches from Gunpowder or Stump Remover
