@@ -49,4 +49,6 @@ Combine wood with Gunpowder or Stump Remover and Accelerant to get 10 matches
 # Put the salt in the bag
 Use cloth to create a bag and put 16 salt into it for a salt bag
 
+# Repair Sewing Kits
+Use hooks, lines and cloth to repair a sewing kit
 
