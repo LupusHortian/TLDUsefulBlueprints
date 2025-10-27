@@ -1,0 +1,22 @@
+{
+    "Name": "Lupus_LineFromRope",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Rope",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Line",
+    "CraftedResultCount": 12,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

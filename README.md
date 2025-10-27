@@ -52,3 +52,6 @@ Use cloth to create a bag and put 16 salt into it for a salt bag
 # Repair Sewing Kits
 Use hooks, lines and cloth to repair a sewing kit
 
+# Line from Rope
+Cut a rope into a dozen lines
+
